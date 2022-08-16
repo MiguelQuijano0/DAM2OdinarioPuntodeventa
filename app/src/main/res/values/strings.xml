@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExamenOrdinario</string>
+    <string name="ventas">Ventas</string>
+    <string name="Inventario">Inventarios</string>
+    <string name="salir">Salir</string>
+    <string name="titulo">Menú</string>
+    <string name="Guardar">Insertar Producto</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Eliminar">Eliminar Producto</string>
+    <string name="Actualizar">Actualizar Producto</string>
+    <string name="resultados">Ir a ventas a ver resultados</string>
+    <string name="leer">ver registros de la base de datos</string>
+    <string name="CUFCP">Centro universitario Felipe Carrillo Puerto</string>
+</resources>
